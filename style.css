@@ -1,0 +1,12 @@
+
+        * {
+            font-family: 'Roboto', sans-serif;
+            font-size: 30px;
+            color: #333;
+        }
+        nav a {
+            text-decoration: none;
+        }
+        nav a:hover {
+            color: red;
+        }
